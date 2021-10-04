@@ -1,0 +1,17 @@
+.banner{
+    background-image: url('../../images/img5.jpg');
+    background-repeat: no-repeat;
+    min-height: 700px;
+    margin: 10px;
+}
+
+.banner-text{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.text{
+    margin-top: 300px;
+    margin-right: 50px;
+}

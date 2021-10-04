@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Deep Stretch (Level 1) (Gently Heated)",
+        "description": "Experience the benefits of deep stretching such as releasing tight muscles, improving range of motion, a deeper sense of relaxation and release and workout recovery. The room is lightly warmed to 80F with infrared heat, enhancing joint mobility and flexibility.",
+        "img": "https://c.ndtvimg.com//yoga_625x300_1529482160763.jpg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    },
+    {
+        "id": 2,
+        "title": "Gentle Yoga (Level 1) (Non-heated)",
+        "description": "A softer, slower-paced class that gently explores postures, breath work and meditation. A great class for beginners, students who are returning to their practice after illness or injury, and for those of us just looking for an opportunity to rest in God’s grace. All levels are welcome.",
+        "img": "https://static01.nyt.com/images/2016/12/02/well/move/yoga_body_images-slide-NY4R/yoga_body_images-slide-NY4R-jumbo.jpg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    },
+    {
+        "id": 3,
+        "title": "Hatha / Yoga for Strength (Level 1-2) (Non-heated)",
+        "description": "Hatha yoga emphasizes static postures. Expect to hold poses for longer periods of time, learning proper alignment and adjustments/modifications to fit your body.",
+        "img": "https://c.ndtvimg.com//yoga_625x300_1529482160763.jpg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    },
+    {
+        "id": 4,
+        "title": "Hot Vinyasa (Level 2) (Heated)",
+        "description": "A fun, upbeat class that combines movement and breath, designed to awaken your body, mind, and spirit. This infrared heated class ranges from 90-95F. Be prepared to move, sweat, stretch and breathe into a powerful physical practice that is 100% yoga and 100% Jesus.  Some yoga experience recommended.",
+        "img": "https://i.insider.com/600af7c2c94799001992cc62?width=1136&format=jpeg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    },
+    {
+        "id": 5,
+        "title": "Restorative Stretch (Level 1) (Gently Heated)",
+        "description": "A fun, upbeat class that combines movement and breath, designed to awaken your body, mind, and spirit. This infrared heated class ranges from 90-95F. Be prepared to move, sweat, stretch and breathe into a powerful physical practice that is 100% yoga and 100% Jesus.  Some yoga experience recommended.",
+        "img": "https://i.insider.com/600af7c2c94799001992cc62?width=1136&format=jpeg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    },
+    {
+        "id": 6,
+        "title": "Sculpt & Flow (Level 1-2) (Non-Heated)",
+        "description": "A fun, upbeat class that combines movement and breath, designed to awaken your body, mind, and spirit. This infrared heated class ranges from 90-95F. Be prepared to move, sweat, stretch and breathe into a powerful physical practice that is 100% yoga and 100% Jesus.  Some yoga experience recommended.",
+        "img": "https://img.freepik.com/free-photo/woman-sitting-yoga-pose-beach_1098-1454.jpg?size=338&ext=jpg",
+        "details": "Some yoga postures can manipulate a person’s digestive tract and may help relieve constipation by encouraging the digestive tract to pass stool or gas."
+    }
+]
